@@ -8,7 +8,7 @@ Constraints:
 1. Some form of interpretability.
 
 # Introduction
-In 2006 Netflix announced the Netflix Prize, a machine learning and data mining competition for movie rating prediction. They offered $1 million to whoever improved the accuracy of our existing system called Cinematch by 10%. They conducted this competition to find new ways to improve the recommendations which they provide to their customers, which is a key part of their business. However, they had to come up with a proxy question that was easier to evaluate and quantify: the root mean squared error (RMSE) of the predicted rating. 
+In 2006 Netflix announced the Netflix Prize, a machine learning and data mining competition for movie rating prediction. They offered $1 million to whoever improved the accuracy of their existing system called Cinematch by 10%. They conducted this competition to find new ways to improve the recommendations which they provide to their customers, which is a key part of their business. However, they had to come up with a proxy question that was easier to evaluate and quantify: the root mean squared error (RMSE) of the predicted rating. 
 
 Get the data from : https://www.kaggle.com/netflix-inc/netflix-prize-data/data 
 
