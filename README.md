@@ -14,8 +14,12 @@ Get the data from : https://www.kaggle.com/netflix-inc/netflix-prize-data/data
 
 Data files : 
 
-combined_data_1.txt 
+combined_data_1.txt
+
 combined_data_2.txt 
+
 combined_data_3.txt 
+
 combined_data_4.txt 
+
 movie_titles.csv 
